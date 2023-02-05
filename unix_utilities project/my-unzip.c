@@ -1,3 +1,5 @@
+// Emma Pakarinen, 22.1.2023
+
 /* Object: my-unzip tool simply does the reverse of the my-zip tool, taking in a compressed file and writing 
 (to standard output again) the uncompressed results. */
 
