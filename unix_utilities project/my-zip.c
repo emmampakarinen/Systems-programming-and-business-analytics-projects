@@ -1,3 +1,5 @@
+// Emma Pakarinen, 16.1.2023
+
 /* object: when you encounter n characters of the same type in a row, the compression tool (my-zip) will turn that into the 
 number n and a single instance of the character. However, the exact format of the compressed file is quite important; here, 
 you will write out a 4-byte integer in binary format followed by the single character in ASCII. Thus, a compressed file will 
