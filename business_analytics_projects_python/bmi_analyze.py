@@ -1,4 +1,5 @@
 # Emma Pakarinen, 13.12.2022
+# In this code data is read from a csv-file and visualized with seaborn -library.
 
 import pandas as pd
 import seaborn as sns
