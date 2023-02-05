@@ -1,3 +1,5 @@
+# Emma Pakarinen, 13.12.2022
+
 # object: generate a list of most popular (top 5) male and female names in 2019
 # and 2020 respectively from subsetted and sorted Dataframe
 
