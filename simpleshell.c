@@ -1,7 +1,8 @@
-// Emma Pakarinen, 4.2.2023
+/* Emma Pakarinen, 4.2.2023
+This program is an outline for a larger shell project on the "Käyttöjärjestelmät ja systeemiohjelmointi" -course. */
 
 /* Object: Write a simple shell that can be used to execute commands with parameters, in the foreground and background. 
-Add an auto-logout feature, that is, if there is no input received during a specified period of time (e.g. 15 secs), the shell will exit.*/
+Add an auto-logout feature, that is, if there is no input received during a specified period of time (e.g. 15 secs), the shell will exit. */
 
 #include <stdio.h>
 #include <string.h>
