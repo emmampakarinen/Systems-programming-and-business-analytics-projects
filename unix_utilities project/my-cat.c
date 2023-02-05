@@ -1,3 +1,4 @@
+// Emma Pakarinen, 4.2.2023
 // object: The program my-cat is a simple program. Generally, it reads a file as specified by the user and prints its contents. 
 
 #include <stdio.h>
