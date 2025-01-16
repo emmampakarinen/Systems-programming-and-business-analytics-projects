@@ -1,2 +1,2 @@
-# Projects
-Some of the projects I've done. There are a couple data visualization with Python -programs and some system programming projects with C (Unix-utilities and Unix-shells) as well. 
+# Systems programming and business analytics projects
+Some of the projects I've done. There are a couple data visualization with Python -programs and system programming projects with C: Unix-utilities and Unix-shell. 
